@@ -1,6 +1,8 @@
-# DataGenerationLab
+# Synthetic Data Generation for Language Models
 
+This repository is dedicated to generating datasets for various language modeling tasks. Our goal is to provide an implementation for tasks that do not have an official implementation, and to make it easy for people to create and reproduce datasets such datasets.
 
+We encourage contributions and feedback to make this repository a valuable resource for the community. If you have any questions or suggestions, please feel free to open an issue or submit a pull request.
 
 ## Make Your Pull Requests (PRs)
 If you want to contribute, we encourage you to make a PR to this repository according to the following guidelines.
@@ -10,7 +12,7 @@ Each PR should include the code and markdown description in a subdirectory.
 An example subdirectory tree is as follows:
 
 ```
-└── DataGenerationLab
+└── SyntheticDataGenerationLab
     └── <Your PR directory>: Dataset name
         ├── example.json (Optional)
         ├── README.md
@@ -33,6 +35,6 @@ Please include the following sections in your README to help its better use:
 Please include the necessary packages in the file for generating the dataset.
 
 ### Contributors
-<a href="https://github.com/atfortes/DataGenerationLab/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=atfortes/DataGenerationLab" />
+<a href="https://github.com/atfortes/SyntheticDataGenerationLab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=atfortes/SyntheticDataGenerationLab" />
 </a>
