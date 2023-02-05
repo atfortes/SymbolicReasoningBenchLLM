@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+type: data
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Fortes"
+  given-names: "Armando"
+title: "simple-dataset-generation"
+date-released: 2023-02-03
+url: "https://github.com/atfortes/simple-dataset-generation"
