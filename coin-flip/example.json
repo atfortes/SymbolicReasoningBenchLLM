@@ -1,0 +1,42 @@
+[
+    {
+        "question": "A coin is heads up. Jose does not flip the coin. Ana does not flip the coin. Robert flips the coin. Mary flips the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "question": "A coin is heads up. Laura does not flip the coin. Brian does not flip the coin. Patricia does not flip the coin. Sandra does not flip the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "question": "A coin is heads up. David flips the coin. Maria flips the coin. Chris does not flip the coin. Carlos flips the coin. Is the coin still heads up?",
+        "answer": "no"
+    },
+    {
+        "question": "A coin is heads up. James does not flip the coin. Kevin flips the coin. Mark does not flip the coin. Nancy flips the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "question": "A coin is heads up. Jennifer flips the coin. Emily flips the coin. Jessica does not flip the coin. Anthony does not flip the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "question": "A coin is heads up. Alex flips the coin. Melissa does not flip the coin. John flips the coin. Stephanie does not flip the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "question": "A coin is heads up. Daniel does not flip the coin. Juan flips the coin. Amanda flips the coin. Luis does not flip the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "question": "A coin is heads up. Elizabeth does not flip the coin. Jason flips the coin. Mike does not flip the coin. Ashley flips the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "question": "A coin is heads up. Joe does not flip the coin. Lisa does not flip the coin. Linda flips the coin. Karen flips the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "question": "A coin is heads up. Jorge flips the coin. Michael does not flip the coin. Sarah does not flip the coin. Michelle does not flip the coin. Is the coin still heads up?",
+        "answer": "no"
+    }
+]
