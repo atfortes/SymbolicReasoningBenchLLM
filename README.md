@@ -12,7 +12,7 @@ Each PR should include the code and markdown description in a subdirectory.
 An example subdirectory tree is as follows:
 
 ```
-└── SyntheticDataGenerationLab
+└── DataGenLM
     └── <Your PR directory>: Dataset name
         ├── example.json (Optional)
         ├── README.md
