@@ -35,6 +35,6 @@ Please include the following sections in your README to help its better use:
 Please include the necessary packages in the file for generating the dataset.
 
 ### Contributors
-<a href="https://github.com/atfortes/SyntheticDataGenerationLab/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=atfortes/SyntheticDataGenerationLab" />
+<a href="https://github.com/atfortes/DataGenLM/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=atfortes/DataGenLM" />
 </a>
