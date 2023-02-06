@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Take the first letters of the words in \"Jose Ana Robert Mary\" and concatenate them.",
+        "answer": "JARM"
+    },
+    {
+        "question": "Take the first letters of the words in \"Laura Brian Patricia Sandra\" and concatenate them.",
+        "answer": "LBPS"
+    },
+    {
+        "question": "Take the first letters of the words in \"David Maria Chris Carlos\" and concatenate them.",
+        "answer": "DMCC"
+    },
+    {
+        "question": "Take the first letters of the words in \"James Kevin Mark Nancy\" and concatenate them.",
+        "answer": "JKMN"
+    },
+    {
+        "question": "Take the first letters of the words in \"Jennifer Emily Jessica Anthony\" and concatenate them.",
+        "answer": "JEJA"
+    },
+    {
+        "question": "Take the first letters of the words in \"Alex Melissa John Stephanie\" and concatenate them.",
+        "answer": "AMJS"
+    },
+    {
+        "question": "Take the first letters of the words in \"Daniel Juan Amanda Luis\" and concatenate them.",
+        "answer": "DJAL"
+    },
+    {
+        "question": "Take the first letters of the words in \"Elizabeth Jason Mike Ashley\" and concatenate them.",
+        "answer": "EJMA"
+    },
+    {
+        "question": "Take the first letters of the words in \"Joe Lisa Linda Karen\" and concatenate them.",
+        "answer": "JLLK"
+    },
+    {
+        "question": "Take the first letters of the words in \"Jorge Michael Sarah Michelle\" and concatenate them.",
+        "answer": "JMSM"
+    }
+]

@@ -7,12 +7,12 @@ import os
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate Last Letter Concatenation Dataset")
+    parser = argparse.ArgumentParser(description="Generate First Letter Concatenation Dataset")
     parser.add_argument("--random_seed", type=int, default=0)
     parser.add_argument("--dataset_size", type=int, default=10)
     parser.add_argument("--names_in_sample", type=int, default=4)
     parser.add_argument("--data_dir", type=str, default=".")
-    parser.add_argument("--file_name", type=str, default="last_letter_concatenation")
+    parser.add_argument("--file_name", type=str, default="first_letter_concatenation")
     args = parser.parse_args()
 
     nd = NameDataset()
@@ -23,7 +23,7 @@ def main():
 
     samples = []
     for i in range(args.dataset_size):
-        q = "Take the last letters of each words in \""
+        q = "Take the first letters of the words in \""
         a = ""
         for j in range(args.names_in_sample):
             k = i*args.names_in_sample + j

@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Take the last letters of the words in \"Jose Ana Robert Mary\" and concatenate them.",
+        "answer": "eaty"
+    },
+    {
+        "question": "Take the last letters of the words in \"Laura Brian Patricia Sandra\" and concatenate them.",
+        "answer": "anaa"
+    },
+    {
+        "question": "Take the last letters of the words in \"David Maria Chris Carlos\" and concatenate them.",
+        "answer": "dass"
+    },
+    {
+        "question": "Take the last letters of the words in \"James Kevin Mark Nancy\" and concatenate them.",
+        "answer": "snky"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jennifer Emily Jessica Anthony\" and concatenate them.",
+        "answer": "ryay"
+    },
+    {
+        "question": "Take the last letters of the words in \"Alex Melissa John Stephanie\" and concatenate them.",
+        "answer": "xane"
+    },
+    {
+        "question": "Take the last letters of the words in \"Daniel Juan Amanda Luis\" and concatenate them.",
+        "answer": "lnas"
+    },
+    {
+        "question": "Take the last letters of the words in \"Elizabeth Jason Mike Ashley\" and concatenate them.",
+        "answer": "hney"
+    },
+    {
+        "question": "Take the last letters of the words in \"Joe Lisa Linda Karen\" and concatenate them.",
+        "answer": "eaan"
+    },
+    {
+        "question": "Take the last letters of the words in \"Jorge Michael Sarah Michelle\" and concatenate them.",
+        "answer": "elhe"
+    }
+]

@@ -23,7 +23,7 @@ def main():
 
     samples = []
     for i in range(args.dataset_size):
-        q = "Take the last letters of each words in \""
+        q = "Take the last letters of the words in \""
         a = ""
         for j in range(args.names_in_sample):
             k = i*args.names_in_sample + j
