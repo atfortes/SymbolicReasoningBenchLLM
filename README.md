@@ -1,6 +1,6 @@
 # Synthetic Data Generation for Language Models
 
-This repository is dedicated to generating datasets for various language modeling tasks. Our goal is to provide an implementation for tasks that do not have an official implementation, and to make it easy for people to create and reproduce datasets such datasets.
+This repository is dedicated to generating datasets for various language modeling tasks. Our goal is to provide an implementation for the generation of datasets that are not public or do not have an official implementation, and to make it easy for people to create and reproduce them.
 
 We encourage contributions and feedback to make this repository a valuable resource for the community. If you have any questions or suggestions, please feel free to open an issue or submit a pull request.
 
