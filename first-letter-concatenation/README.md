@@ -1,17 +1,28 @@
 # First Letter Concatenation
 
-Dataset generation code was adapted from: 
-```bibtex
-@article{Kojima2022LargeLM,
-  title={Large Language Models are Zero-Shot Reasoners},
-  author={Takeshi Kojima and Shixiang Shane Gu and Machel Reid and Yutaka Matsuo and Yusuke Iwasawa},
-  journal={ArXiv},
-  year={2022},
-  volume={abs/2205.11916}
-}
+## Authors
+
+**Armando Fortes**
+
+Homepage: https://atfortes.github.io/
+
+Contact: fmq22@mails.tsinghua.edu.cn
+
+Acknowledgement: Dataset generation code was adapted from [Kojima et al. (2022)](https://github.com/kojima-takeshi188/zero_shot_cot/blob/main/create_dataset_for_symbolic_reasoning.py).
+
+## Task Description
+
+The task requires the model to combine the initial letters of a sequence of words, which represent names. For example, given the input "Amy Brown", the model should return "AB".
+
+## Running Commands
+
+You can run `python first_letter_concatenation.py --help` to see the usage of all the supported configurations. Using the default configuration as presented in the following command will reproduce the snippet at `example.json`. 
+
+```bash
+python first_letter_concatenation.py 
 ```
 
-Dataset reference:
+## Reference:
 ```bibtex
 @article{Wei2022ChainOT,
   title={Chain of Thought Prompting Elicits Reasoning in Large Language Models},
