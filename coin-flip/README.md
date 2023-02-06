@@ -22,7 +22,7 @@ You can run `python coin_flip.py --help` to see the usage of all the supported c
 python coin_flip.py 
 ```
 
-## Reference:
+## Reference
 ```bibtex
 @article{Wei2022ChainOT,
   title={Chain of Thought Prompting Elicits Reasoning in Large Language Models},

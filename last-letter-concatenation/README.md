@@ -22,7 +22,7 @@ You can run `python last_letter_concatenation.py --help` to see the usage of all
 python last_letter_concatenation.py 
 ```
 
-## Reference:
+## Reference
 ```bibtex
 @article{Wei2022ChainOT,
   title={Chain of Thought Prompting Elicits Reasoning in Large Language Models},
