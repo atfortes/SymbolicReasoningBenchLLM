@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Reverse the sequence \"identity card, sunscreen, brush, light bulb, water\".",
+        "answer": "water, light bulb, brush, sunscreen, identity card"
+    },
+    {
+        "question": "Reverse the sequence \"toothbrush, pen, brush, packet, file\".",
+        "answer": "file, packet, brush, pen, toothbrush"
+    },
+    {
+        "question": "Reverse the sequence \"rubber, diary, painkiller, camera, painkiller\".",
+        "answer": "painkiller, camera, painkiller, diary, rubber"
+    },
+    {
+        "question": "Reverse the sequence \"pen, rubbish, camera, glasses, driving licence\".",
+        "answer": "driving licence, glasses, camera, rubbish, pen"
+    },
+    {
+        "question": "Reverse the sequence \"battery, match, glasses, wallet, light bulb\".",
+        "answer": "light bulb, wallet, glasses, match, battery"
+    },
+    {
+        "question": "Reverse the sequence \"headphone, identity card, rubber, laptop, chewing gum\".",
+        "answer": "chewing gum, laptop, rubber, identity card, headphone"
+    },
+    {
+        "question": "Reverse the sequence \"watch, light bulb, headphone, stamp, dictionary\".",
+        "answer": "dictionary, stamp, headphone, light bulb, watch"
+    },
+    {
+        "question": "Reverse the sequence \"mirror, light bulb, pen, phone card, scissors\".",
+        "answer": "scissors, phone card, pen, light bulb, mirror"
+    },
+    {
+        "question": "Reverse the sequence \"case, pen, toothbrush, brush, umbrella\".",
+        "answer": "umbrella, brush, toothbrush, pen, case"
+    },
+    {
+        "question": "Reverse the sequence \"sweet, painkiller, brush, match, battery\".",
+        "answer": "battery, match, brush, painkiller, sweet"
+    }
+]
