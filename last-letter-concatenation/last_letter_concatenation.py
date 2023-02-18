@@ -33,10 +33,7 @@ def main():
                 q += " "
         q += "\" and concatenate them."
 
-        dic = OrderedDict()
-        dic["question"] = q
-        dic["answer"] = a
-        samples.append(dic)
+        samples.append(OrderedDict([("question", q), ("answer", a)]))
 
     with open(os.path.join(args.data_dir, args.file_name) + '.json', 'w') as f:
         json.dump(samples, f, indent=4)
