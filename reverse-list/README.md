@@ -1,4 +1,4 @@
-# Coin Flip
+# Reverse List
 
 ## Authors
 
@@ -8,18 +8,16 @@ Homepage: https://atfortes.github.io/
 
 Contact: fmq22@mails.tsinghua.edu.cn
 
-Acknowledgement: Dataset generation code was adapted from [Kojima et al. (2022)](https://github.com/kojima-takeshi188/zero_shot_cot/blob/main/create_dataset_for_symbolic_reasoning.py).
-
 ## Task Description
 
-This task requires the model to determine if a coin remains heads up after one or more individuals either flip or do not flip it. For instance, the input "A coin is heads up. Phoebe flips the coin. Osvaldo does not flip the coin. Is the coin still heads up?" should receive the response "no".
+This task requires the model to determine the reverse order of a given sequence of [everyday objects](https://www.vocabulary.com/lists/189583). For instance, the input `Reverse the sequence "identity card, sunscreen, brush, light bulb, water".` should receive the response `water, light bulb, brush, sunscreen, identity card`.
 
 ## Running Commands
 
-You can run `python coin_flip.py --help` to see the usage of all the supported configurations. Using the default configuration as presented in the following command will reproduce the snippet at `example.json`. 
+You can run `python reverse_list.py --help` to see the usage of all the supported configurations. Using the default configuration as presented in the following command will produce a snippet similar `example.json`. 
 
 ```bash
-python coin_flip.py 
+python reverse_list.py 
 ```
 
 ## Reference
