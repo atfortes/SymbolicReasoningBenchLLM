@@ -1,4 +1,4 @@
-# Synthetic Data Generation for Language Models
+# Synthetic Datasets for Language Models
 
 This repository is dedicated to generating datasets for various language modeling tasks. Our goal is to provide an implementation for the generation of datasets that are not public or do not have an official implementation, and to make it easy for people to create and reproduce them.
 
@@ -9,7 +9,7 @@ If you want to contribute, we encourage you to make a PR to this repository acco
 
 ### Directory Structure
 Each PR should include the code and markdown description in a subdirectory.
-An example subdirectory tree is as follows:
+An example subdirectory tree:
 
 ```
 └── DataGenLM
@@ -20,7 +20,7 @@ An example subdirectory tree is as follows:
         └── <Your code>
 ```
 
-Please exclude large data files in the PR as they take up too much space. Instead, describe the method to acquire the data in your `README.md` and optionally provide a small generation example. See the `coin-flip` and `last-letter-concatenation` subdirectories for an example.
+Please exclude large data files in the PR as they take up too much space. Instead, describe the method to acquire the data in your `README.md` and optionally provide a small generation snippet (`example.json`). See the `coin-flip` and `last-letter-concatenation` subdirectories for an example.
 
 ### Task Description (README.md)
 Please include the following sections in your README to help its better use:
@@ -33,8 +33,3 @@ Please include the following sections in your README to help its better use:
 
 ### Environment Requirements (requirements.txt)
 Please include the necessary packages in the file for generating the dataset.
-
-### Contributors
-<a href="https://github.com/atfortes/DataGenLM/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=atfortes/DataGenLM" />
-</a>
